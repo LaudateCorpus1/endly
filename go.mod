@@ -78,8 +78,8 @@ require (
 	github.com/viant/neatly v0.8.0
 	github.com/viant/toolbox v0.34.6-0.20220314164026-a0456d19ac53
 	github.com/yuin/gopher-lua v0.0.0-20190514113301-1cd887cd7036 // indirect
-	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	golang.org/x/net v0.0.0-20200904194848-62affa334b73
+	golang.org/x/crypto v0.1.0
+	golang.org/x/net v0.1.0
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
 	google.golang.org/api v0.31.0
 	google.golang.org/protobuf v1.25.0
