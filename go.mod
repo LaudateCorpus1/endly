@@ -52,8 +52,6 @@ require (
 	github.com/lusis/slack-test v0.0.0-20190426140909-c40012f20018 // indirect
 	github.com/mattbaird/jsonpatch v0.0.0-20171005235357-81af80346b1a
 	github.com/mattn/go-sqlite3 v1.10.0
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/morikuni/aec v1.0.0 // indirect
 	github.com/nlopes/slack v0.5.1-0.20190214144636-e73b432e20b0
 	github.com/onsi/ginkgo v1.10.1 // indirect
@@ -85,13 +83,11 @@ require (
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/linkedin/goavro.v1 v1.0.5 // indirect
 	gopkg.in/src-d/go-git.v4 v4.12.0
-	gopkg.in/yaml.v2 v2.2.2
+	gopkg.in/yaml.v2 v2.2.4
 	gotest.tools v2.2.0+incompatible // indirect; indirec
 	k8s.io/api v0.0.0-20190111032252-67edc246be36
-	k8s.io/apimachinery v0.0.0-20190201131811-df262fa1a1ba
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v10.0.0+incompatible
-	k8s.io/klog v0.3.0 // indirect
 	k8s.io/kube-openapi v0.0.0-20190401085232-94e1e7b7574c // indirect
 	k8s.io/kubernetes v1.13.3
-	sigs.k8s.io/yaml v1.1.0 // indirect
 )
