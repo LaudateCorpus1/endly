@@ -18,7 +18,7 @@ require (
 	github.com/viant/dsunit v0.7.0 // indirect
 	github.com/viant/toolbox v0.19.0
 	github.com/yuin/gopher-lua v0.0.0-20190206043414-8bfc7677f583 // indirect
-	golang.org/x/crypto v0.0.0-20190313024323-a1f597ede03a // indirect
+	golang.org/x/crypto v0.1.0 // indirect
 	golang.org/x/oauth2 v0.0.0-20190226205417-e64efc72b421 // indirect
 	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
